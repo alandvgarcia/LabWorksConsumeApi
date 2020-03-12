@@ -1,0 +1,2 @@
+rootProject.name='LabWorksConsumeApi'
+include ':app', ':classes_sm'
